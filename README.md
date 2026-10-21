@@ -2,7 +2,12 @@
 
 # 🎨 Colorize Black & White Images — OpenCV Deep Learning
 
-
+[![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-DNN-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![Caffe](https://img.shields.io/badge/Caffe-Pre--trained%20Model-red?style=for-the-badge)](http://caffe.berkeleyvision.org/)
+[![Tkinter](https://img.shields.io/badge/Tkinter-GUI%20App-blue?style=for-the-badge)](https://docs.python.org/3/library/tkinter.html)
+[![License](https://img.shields.io/badge/License-MIT-1abc9c?style=for-the-badge)](./LICENSE)
+[![GitHub](https://img.shields.io/badge/GitHub-Saurabhnandan123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saurabhnandan123)
 
 > Automatically colorizes **black & white images** using a pre-trained deep learning model loaded via **OpenCV DNN** — wrapped in a clean **Tkinter desktop GUI** where you upload an image and get a colorized result instantly.
 
